@@ -3,6 +3,8 @@
 Chrome-un T-Rex (Dino) oyununun hərəkət modeli ilə hazırlanmış kiçik brauzer oyunu.
 Dovşan çəmənlikdə qaçır, torpaqdan çıxan kök bitkilərin (yerkökü, turp, çuğundur) üstündən tullanır.
 
+▶️ **Oyna: https://mehemmedabbaslipro2007-arch.github.io/dovsan-qacis/**
+
 ## İdarəetmə
 | Düymə | Nə edir |
 |---|---|
